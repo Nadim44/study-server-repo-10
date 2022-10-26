@@ -1,26 +1,30 @@
 [
     {
         "id": "01",
-        "name": "English"
+        "name": "Bangla"
     },
     {
         "id": "02",
-        "name": "Mathematics"
+        "name": "English"
     },
     {
         "id": "03",
-        "name": "Physics"
+        "name": "Mathematics"
     },
     {
         "id": "04",
-        "name": "Chemistry"
+        "name": "Physics"
     },
     {
         "id": "05",
-        "name": "Biology"
+        "name": "Chemistry"
     },
     {
         "id": "06",
-        "name": "General knowledge"
+        "name": "Biology"
+    },
+    {
+        "id": "07",
+        "name": "All Courses"
     }
 ]
